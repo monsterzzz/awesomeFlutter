@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'start/1.dart';
+import 'start/2.dart';
 void main() {
-  runApp(MyApp1());
+  runApp(MyApp2());
 }
 
